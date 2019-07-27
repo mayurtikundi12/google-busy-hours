@@ -1,0 +1,17 @@
+{
+  "name": "google-busy-hours",
+  "version": "1.0.0",
+  "description": "finds the busy hours from google places api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google busy hours",
+    "google places",
+    "popular times"
+  ],
+  "author": "mayur tikundi",
+  "license": "ISC",
+  "dependencies": {}
+}
